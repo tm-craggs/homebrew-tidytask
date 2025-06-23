@@ -1,8 +1,8 @@
 class Tidytask < Formula
   desc "A simple CLI tool for managing your to-do list"
   homepage "https://github.com/tm-craggs/tidytask"
-  url "1d557bea7d4a71ddf9c004217acffee800bede4bdfc137829d96bc32ed46bd96"
-  sha256 ""
+  url "https://github.com/tm-craggs/tidytask/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "1d557bea7d4a71ddf9c004217acffee800bede4bdfc137829d96bc32ed46bd96"
   license "GPL-3.0"
 
   depends_on "go" => :build
